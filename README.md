@@ -14,8 +14,8 @@
 
 ## Screenshot
 
-![PEER 1](screenshots/img1.jpg)
-![PEER 2](screenshots/img2.jpg)
+![PEER 1](screenshots/Img1.jpg)
+![PEER 2](screenshots/Img2.jpg)
 
 ## Author
 
