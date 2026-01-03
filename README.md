@@ -14,8 +14,8 @@
 
 ## Screenshot
 
-![K-Map Example](screenshots/img1.png)
-![K-Map Example](screenshots/img2.png)
+![PEER 1](screenshots/img1.jpg)
+![PEER 2](screenshots/img2.jpg)
 
 ## Author
 
